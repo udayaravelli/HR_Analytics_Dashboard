@@ -27,10 +27,24 @@ HR Analytics Dashboard to uncover trends that can drive workforce retention and 
  - Attrition is notable in Sales and R&D roles. Tailored support for these departments can help retain key talent. 
 
 6️⃣ Diversity Focus:
- - Female employees in the 26-35 age group face significant attrition. Flexible policies and career support may address this. 
+ - Female employees in the 26-35 age group face significant attrition. Flexible policies and career support may address this.
+
+# 📊 𝐂𝐡𝐚𝐫𝐭𝐬 𝐔𝐬𝐞𝐝:
+
+1. 𝐁𝐚𝐫 𝐂𝐡𝐚𝐫𝐭𝐬 for attrition by age, salary, and job roles 📊
+2. 𝐅𝐮𝐧𝐧𝐞𝐥 𝐂𝐡𝐚𝐫𝐭 for visualizing employee attrition funnel 🔽
+3. 𝐏𝐢𝐞 𝐂𝐡𝐚𝐫𝐭 for attrition by education 🎓
+4. 𝐋𝐢𝐧𝐞 𝐂𝐡𝐚𝐫𝐭 for years at the company and attrition trends 📈
 
 # 🎯 What’s Next? 
 This dashboard emphasizes the need for data-driven HR strategies. By understanding trends in demographics, tenure, salary, and satisfaction, organizations can target areas that drive retention and long-term employee engagement.
 
-Impact:
-The dashboard enables HR leaders to: Identify vulnerable employee segments. Focus on improving salary structures and employee retention programs. Design targeted interventions to address role-specific attrition issues.
+✅ 𝐑𝐞𝐜𝐨𝐦𝐦𝐞𝐧𝐝𝐚𝐭𝐢𝐨𝐧𝐬:
+
+1. Implement career development programs for younger employees.
+2. Increase salary competitiveness for employees in lower brackets.
+3. Focus on retention initiatives for high-turnover roles like Sales Executives and Laboratory Technicians.
+4. Revise work-life balance and overtime policies to reduce burnout.
+5. Improve retention strategies for R&D and Sales departments.
+6. Offer flexible work options and support for single employees.
+7. Enhance onboarding and early-stage retention for employees with 2-5 years of tenure.
