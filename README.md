@@ -31,3 +31,6 @@ HR Analytics Dashboard to uncover trends that can drive workforce retention and 
 
 # 🎯 What’s Next? 
 This dashboard emphasizes the need for data-driven HR strategies. By understanding trends in demographics, tenure, salary, and satisfaction, organizations can target areas that drive retention and long-term employee engagement.
+
+Impact:
+The dashboard enables HR leaders to: Identify vulnerable employee segments. Focus on improving salary structures and employee retention programs. Design targeted interventions to address role-specific attrition issues.
